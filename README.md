@@ -1,2 +1,6 @@
-# ngl_vector_rep
-A vector representation for ngl viewer
+# NGL vector representation
+A vector representation for nglviewer in Python.
+
+Adds arrows for a list of positions and directions to an NGLViewer object.
+
+#### To know how it works, just look at the example
